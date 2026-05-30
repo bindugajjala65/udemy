@@ -12,7 +12,7 @@ body{
     border-bottom: solid black 1px;
     gap: 10px;
     position: sticky;
-    top: 10px;
+    top: 5px;
     background-color: white;
     z-index: 1;
     align-items: center;
@@ -73,7 +73,7 @@ body{
     cursor: pointer;
     border: solid #A435F0 1px;
 }
-.categories p:hover{
+.Categories p:hover{
     transition: 1s;
     background-color: transparent;
     color: black;
